@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Assembly-CSharp">
+        <HintPath>..\..\..\UnityProjects\Script-Maker\Library\ScriptAssemblies\Assembly-CSharp.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule">
+        <HintPath>..\..\..\..\..\Applications\Unity\Hub\Editor\2021.3.6f1\Unity.app\Contents\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.UI">
+        <HintPath>..\..\..\UnityProjects\Script-Maker\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

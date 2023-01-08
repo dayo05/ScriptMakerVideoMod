@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FApplications_002FUnity_002FHub_002FEditor_002F2021_002E3_002E6f1_002FUnity_002Eapp_002FContents_002FManaged_002FUnityEngine_002FUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fdayo_002FUnityProjects_002FScript_002DMaker_002FLibrary_002FScriptAssemblies_002FAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fdayo_002FUnityProjects_002FScript_002DMaker_002FLibrary_002FScriptAssemblies_002FUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fdayo_002FUnityProjects_002FScript_002DMaker_002FScriptMaker_002Dv0_002E6a7_002Dmac_002Eapp_002FContents_002FResources_002FData_002FManaged_002FAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fdayo_002FUnityProjects_002FScript_002DMaker_002FScriptMaker_002Dv0_002E6a7_002Dmac_002Eapp_002FContents_002FResources_002FData_002FManaged_002FUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fdayo_002FUnityProjects_002FScript_002DMaker_002FScriptMaker_002Dv0_002E6a7_002Dmac_002Eapp_002FContents_002FResources_002FData_002FManaged_002FUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.7/ref/net6.0/WindowsBase.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
